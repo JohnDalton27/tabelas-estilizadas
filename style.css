@@ -1,0 +1,27 @@
+.titulo {
+    color: #424250
+}
+
+.tabela{
+    text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.cabecalho-casa th, .cabecalho-moda th, .produtos-casa td, .produtos-moda td{
+    border: 0px solid rgb(255 255 255);
+    padding: 5px 10px;
+}
+
+.produtos-casa, .produtos-moda {
+    background-color: #424250;
+}
+
+.cabecalho-moda th{
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa th{
+    background-color: #00C4B4;
+}
